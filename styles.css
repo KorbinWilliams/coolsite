@@ -1,3 +1,52 @@
 body {
-  
+  font-size: 16pt;
+  font-family: sans-serif;
+}
+
+header h1 {
+  text-align: center; 
+  color: white;
+  background-color: darkblue;
+  font-size: 32pt;
+  padding: 18px;
+}
+
+main {
+  margin: 0 10em;
+}
+
+h3 {
+  font-size: 26pt;
+  font-weight: 100;
+  text-align: center;
+  margin-top: 25pt;
+  padding: 20px 0 0 0;
+
+}
+
+.first-column {
+  float: left;
+  width: 80%;
+}
+
+.second-column {
+  float: right;
+  width: 15%;
+ }
+
+#articletitle {
+  font-size: 21px;
+  margin: 0 35px;
+  width: 150px;
+  font-weight: 500;
+}
+
+#article {
+  font-size: 13px;
+  width: 180px;
+}
+
+footer {
+  background-color: darkblue;
+  margin: 10em;
 }
